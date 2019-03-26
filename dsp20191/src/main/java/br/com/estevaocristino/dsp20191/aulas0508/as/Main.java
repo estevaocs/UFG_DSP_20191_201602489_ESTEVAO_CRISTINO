@@ -1,5 +1,6 @@
 package br.com.estevaocristino.dsp20191.aulas0508.as;
 
+import javax.sound.midi.Soundbank;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.File;
@@ -7,9 +8,12 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.Scanner;
 
-public class Avaliacao {
+public class Main {
 	
 	static Scanner scan = new Scanner(System.in);
 	
@@ -22,37 +26,61 @@ public class Avaliacao {
 	private static DataInputStream inStream;
 
 	public static void main(String[] args) {
-//		instanciaAluno();
+		instanciaAluno();
 		lerAluno();
 
 	}
 	
 	private static void lerAluno() {
 		Aluno aluno = new Aluno();
+
+		String nome;
+		Long matricula;
+		Double nota1;
+		Double nota2;
+
 		try {
 			FileInputStream inFile = new FileInputStream(file);
 			inStream = new DataInputStream(inFile);
-			System.out.println(inStream.readUTF());
+			String s = inStream.readUTF();
+			List<String> list = new ArrayList<>();
+			list = Arrays.asList(s.split(","));
+			nome = list.get(0);
+			String mat =  list.get(1);
+			matricula = Long.parseLong(mat);
+			nota1 = Double.parseDouble(list.get(2));
+			nota2 = Double.parseDouble(list.get(3));
+
+			aluno.setNome(nome);
+			aluno.setMatricula(matricula);
+			aluno.setNota1(nota1);
+			aluno.setNota2(nota2);
+
+			System.out.println("Nome: " + aluno.getNome());
+			System.out.println("Matricula: " + aluno.getMatricula());
+			System.out.println("Nota 1: " + aluno.getNota1());
+			System.out.println("Nota 2: " + aluno.getNota2());
+
+			Double md = (aluno.getNota1() + aluno.getNota2())/2;
+			if (md >= 5) {
+				System.out.println("Aluno Aprovado");
+			} else {
+				System.out.println("Aluno Reprovado");
+			}
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
 	}
 
-	private static void verificaArquivo() {
+	private static void verificaArquivo() throws IOException {
 		try {
 			outFile = new FileOutputStream(file);
 			outStream = new DataOutputStream(outFile);
 		} catch (FileNotFoundException e) {
-			try {
-				file.createNewFile();
-			} catch (IOException e1) {
-				e1.printStackTrace();
-			}
+			file.createNewFile();
 			verificaArquivo();
 		}
 	}
@@ -88,16 +116,12 @@ public class Avaliacao {
 	}
 
 	private static void gravarAluno(Aluno aluno) {
-		verificaArquivo();
 		try {
-			outStream.writeChars(aluno.getNome());
-			outStream.writeLong(aluno.getMatricula());
-			outStream.writeDouble(aluno.getNota1());
-			outStream.writeDouble(aluno.getNota2());
+			verificaArquivo();
+			outStream.writeUTF(aluno.toString());
 			outStream.close();
 			outFile.close();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		

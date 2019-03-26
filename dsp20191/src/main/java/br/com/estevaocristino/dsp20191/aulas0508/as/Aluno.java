@@ -43,7 +43,9 @@ public class Aluno {
 	public void setNota2(Double nota2) {
 		this.nota2 = nota2;
 	}
-	
-	
-	
+
+	@Override
+	public String toString() {
+		return nome + "," + matricula + "," + nota1 + "," + nota2;
+	}
 }
