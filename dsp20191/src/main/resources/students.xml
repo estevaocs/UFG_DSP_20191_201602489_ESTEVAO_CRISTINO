@@ -1,0 +1,314 @@
+<?xml version = "1.0"?>
+<class>
+   <student>
+      <matricula>201602485</matricula>
+      <firstname>AUGUSTO</firstname>
+      <lastname>MOURA</lastname>
+      <nickname>augusto.moura</nickname>
+      <frequencia>
+         <aulas numero="0104">F</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201602487</matricula>
+      <firstname>CLEYDSON</firstname>
+      <lastname>J&#195;&#154;NIOR</lastname>
+      <nickname>cleydson.junior</nickname>
+      <frequencia>
+         <aulas numero="0104">F</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201203663</matricula>
+      <firstname>ERIK</firstname>
+      <lastname>COSTA</lastname>
+      <nickname>erik.costa</nickname>
+      <frequencia>
+         <aulas numero="0104">F</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201602489</matricula>
+      <firstname>ESTEV&#195;&#131;O</firstname>
+      <lastname>SILVA</lastname>
+      <nickname>estevao.silva</nickname>
+      <frequencia>
+         <aulas numero="0104">F</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201100315</matricula>
+      <firstname>FERNANDO</firstname>
+      <lastname>AFONSO</lastname>
+      <nickname>fernando.afonso</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201609821</matricula>
+      <firstname>FERNANDO</firstname>
+      <lastname>CALLATA</lastname>
+      <nickname>fernando.callta</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201503341</matricula>
+      <firstname>GABRIEL</firstname>
+      <lastname>SANTANA</lastname>
+      <nickname>gabriel.santana</nickname>
+      <frequencia>
+         <aulas numero="0104">F</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201602492</matricula>
+      <firstname>GABRIEL</firstname>
+      <lastname>MENEZES</lastname>
+      <nickname>gabriel.menezes</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201602493</matricula>
+      <firstname>GUSTAVO</firstname>
+      <lastname>BATISTA</lastname>
+      <nickname>gustavo.batista</nickname>
+      <frequencia>
+         <aulas numero="0104">F</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201602494</matricula>
+      <firstname>HYAGO</firstname>
+      <lastname>SOUZA</lastname>
+      <nickname>hyago.souza</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201602498</matricula>
+      <firstname>JO&#195;&#131;O PEDRO</firstname>
+      <lastname>VIEIRA</lastname>
+      <nickname>joao.vieira</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201602499</matricula>
+      <firstname>JO&#195;&#131;O PEDRO</firstname>
+      <lastname>PINHEIRO</lastname>
+      <nickname>joao.pinheiro</nickname>
+      <frequencia>
+         <aulas numero="0104">F</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201404903</matricula>
+      <firstname>JOSIMAR</firstname>
+      <lastname>SANTOS</lastname>
+      <nickname>josimar.santos</nickname>
+      <frequencia>
+         <aulas numero="0104">F</aulas>
+         <aulas numero="0508">F</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201609822</matricula>
+      <firstname>KAYO</firstname>
+      <lastname>FREITAS</lastname>
+      <nickname>kayo.freitas</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201607109</matricula>
+      <firstname>LARISSA</firstname>
+      <lastname>MELO</lastname>
+      <nickname>larissa.melo</nickname>
+      <frequencia>
+         <aulas numero="0104">F</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201202273</matricula>
+      <firstname>LUCAS</firstname>
+      <lastname>SOUSA</lastname>
+      <nickname>lucas.sousa</nickname>
+      <frequencia>
+         <aulas numero="0104">F</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201602502</matricula>
+      <firstname>LUCAS</firstname>
+      <lastname>DIAS</lastname>
+      <nickname>lucas.dias</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201808740</matricula>
+      <firstname>MARCOS</firstname>
+      <lastname>PEREIRA</lastname>
+      <nickname>marcos.pereira</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201607112</matricula>
+      <firstname>MARCOS RAFAEL</firstname>
+      <lastname>SOUSA</lastname>
+      <nickname>marcos.sousa</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201202279</matricula>
+      <firstname>MATHEUS</firstname>
+      <lastname>FERNANDES</lastname>
+      <nickname>matheus.fernandes</nickname>
+      <frequencia>
+         <aulas numero="0104">F</aulas>
+         <aulas numero="0508">F</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201602506</matricula>
+      <firstname>MURILLO</firstname>
+      <lastname>ANDRADE</lastname>
+      <nickname>murilo.andrade</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201611905</matricula>
+      <firstname>MURILLO</firstname>
+      <lastname>NUNES</lastname>
+      <nickname>murillo.nunes</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201602509</matricula>
+      <firstname>NELSON</firstname>
+      <lastname>SIQUEIRA</lastname>
+      <nickname>nelson.siqueira</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201602510</matricula>
+      <firstname>PAULO JUNIO</firstname>
+      <lastname>RODRIGUES</lastname>
+      <nickname>paulo.rodrigues</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201602511</matricula>
+      <firstname>PEDRO BASILIO</firstname>
+      <lastname>NETO</lastname>
+      <nickname>pedro.neto</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201602512</matricula>
+      <firstname>PEDRO HENRIQUE</firstname>
+      <lastname>SILVA</lastname>
+      <nickname>pedro.silva</nickname>
+      <frequencia>
+         <aulas numero="0104">F</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201602514</matricula>
+      <firstname>RAFAEL</firstname>
+      <lastname>CALIL</lastname>
+      <nickname>rafael.calil</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201000931</matricula>
+      <firstname>RODOLPHO</firstname>
+      <lastname>TAKAHASHI</lastname>
+      <nickname>rodolpho.takahashi</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201609824</matricula>
+      <firstname>SAULO</firstname>
+      <lastname>CALIXTO</lastname>
+      <nickname>saulo.calixto</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201602517</matricula>
+      <firstname>SOFIA</firstname>
+      <lastname>MORAES</lastname>
+      <nickname>sofia.moraes</nickname>
+      <frequencia>
+         <aulas numero="0104">F</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+   <student>
+      <matricula>201501613</matricula>
+      <firstname>VINICIUS</firstname>
+      <lastname>ALENCAR</lastname>
+      <nickname>vinicius.alencar</nickname>
+      <frequencia>
+         <aulas numero="0104">P</aulas>
+         <aulas numero="0508">P</aulas>
+      </frequencia>
+   </student>
+
+</class>

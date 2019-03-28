@@ -1,0 +1,564 @@
+{
+  "class": {
+    "student": [
+      {
+        "matricula": "201602485",
+        "firstname": "AUGUSTO",
+        "lastname": "MOURA",
+        "nickname": "augusto.moura",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "F"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201602487",
+        "firstname": "CLEYDSON",
+        "lastname": "JÚNIOR",
+        "nickname": "cleydson.junior",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "F"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201203663",
+        "firstname": "ERIK",
+        "lastname": "COSTA",
+        "nickname": "erik.costa",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "F"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201602489",
+        "firstname": "ESTEVÃO",
+        "lastname": "SILVA",
+        "nickname": "estevao.silva",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "F"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201100315",
+        "firstname": "FERNANDO",
+        "lastname": "AFONSO",
+        "nickname": "fernando.afonso",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201609821",
+        "firstname": "FERNANDO",
+        "lastname": "CALLATA",
+        "nickname": "fernando.callta",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201503341",
+        "firstname": "GABRIEL",
+        "lastname": "SANTANA",
+        "nickname": "gabriel.santana",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "F"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201602492",
+        "firstname": "GABRIEL",
+        "lastname": "MENEZES",
+        "nickname": "gabriel.menezes",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201602493",
+        "firstname": "GUSTAVO",
+        "lastname": "BATISTA",
+        "nickname": "gustavo.batista",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "F"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201602494",
+        "firstname": "HYAGO",
+        "lastname": "SOUZA",
+        "nickname": "hyago.souza",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201602498",
+        "firstname": "JOÃO PEDRO",
+        "lastname": "VIEIRA",
+        "nickname": "joao.vieira",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201602499",
+        "firstname": "JOÃO PEDRO",
+        "lastname": "PINHEIRO",
+        "nickname": "joao.pinheiro",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "F"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201404903",
+        "firstname": "JOSIMAR",
+        "lastname": "SANTOS",
+        "nickname": "josimar.santos",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "F"
+            },
+            {
+              "numero": "0508",
+              "#text": "F"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201609822",
+        "firstname": "KAYO",
+        "lastname": "FREITAS",
+        "nickname": "kayo.freitas",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201607109",
+        "firstname": "LARISSA",
+        "lastname": "MELO",
+        "nickname": "larissa.melo",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "F"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201202273",
+        "firstname": "LUCAS",
+        "lastname": "SOUSA",
+        "nickname": "lucas.sousa",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "F"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201602502",
+        "firstname": "LUCAS",
+        "lastname": "DIAS",
+        "nickname": "lucas.dias",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201808740",
+        "firstname": "MARCOS",
+        "lastname": "PEREIRA",
+        "nickname": "marcos.pereira",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201607112",
+        "firstname": "MARCOS RAFAEL",
+        "lastname": "SOUSA",
+        "nickname": "marcos.sousa",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201202279",
+        "firstname": "MATHEUS",
+        "lastname": "FERNANDES",
+        "nickname": "matheus.fernandes",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "F"
+            },
+            {
+              "numero": "0508",
+              "#text": "F"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201602506",
+        "firstname": "MURILLO",
+        "lastname": "ANDRADE",
+        "nickname": "murilo.andrade",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201611905",
+        "firstname": "MURILLO",
+        "lastname": "NUNES",
+        "nickname": "murillo.nunes",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201602509",
+        "firstname": "NELSON",
+        "lastname": "SIQUEIRA",
+        "nickname": "nelson.siqueira",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201602510",
+        "firstname": "PAULO JUNIO",
+        "lastname": "RODRIGUES",
+        "nickname": "paulo.rodrigues",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201602511",
+        "firstname": "PEDRO BASILIO",
+        "lastname": "NETO",
+        "nickname": "pedro.neto",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201602512",
+        "firstname": "PEDRO HENRIQUE",
+        "lastname": "SILVA",
+        "nickname": "pedro.silva",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "F"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201602514",
+        "firstname": "RAFAEL",
+        "lastname": "CALIL",
+        "nickname": "rafael.calil",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201000931",
+        "firstname": "RODOLPHO",
+        "lastname": "TAKAHASHI",
+        "nickname": "rodolpho.takahashi",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201609824",
+        "firstname": "SAULO",
+        "lastname": "CALIXTO",
+        "nickname": "saulo.calixto",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201602517",
+        "firstname": "SOFIA",
+        "lastname": "MORAES",
+        "nickname": "sofia.moraes",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "F"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      },
+      {
+        "matricula": "201501613",
+        "firstname": "VINICIUS",
+        "lastname": "ALENCAR",
+        "nickname": "vinicius.alencar",
+        "frequencia": {
+          "aulas": [
+            {
+              "numero": "0104",
+              "#text": "P"
+            },
+            {
+              "numero": "0508",
+              "#text": "P"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
