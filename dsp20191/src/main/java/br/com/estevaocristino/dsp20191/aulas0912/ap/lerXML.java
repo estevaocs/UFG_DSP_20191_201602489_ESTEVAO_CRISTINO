@@ -36,7 +36,7 @@ public class lerXML {
                     System.out.println("First Name : "
                             + node.selectSingleNode("nickname").getText());
                     System.out.println("Frequencia : ");
-                    System.out.println("\tAula: " + node.selec"nickname").getText());
+                    System.out.println("\tAula: " + node.selectSingleNode("nickname").getText());
                 }
 
             }
