@@ -1,31 +1,32 @@
 package br.com.estevaocristino.dsp20191.aulas1316.ap.persistencia.dml.insert;
 
-import br.com.estevaocristino.dsp20191.aulas1316.ap.model.Departamento;
+import br.com.estevaocristino.dsp20191.aulas1316.ap.model.Cargo;
 import br.com.estevaocristino.dsp20191.aulas1316.ap.persistencia.base.PersistenciaJdbc;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
-public class ConsultaDepartamento extends PersistenciaJdbc {
+public class PersisteCargo extends PersistenciaJdbc {
 
-    private Departamento departamento;
+    private Cargo cargo;
 
-    public ConsultaDepartamento(){
-        departamento = new Departamento();
+    public PersisteCargo(){
+        cargo = new Cargo();
     }
 
-    public Departamento consultaPorId(Long id) throws Exception{
+    public Cargo consultaPorId(Long id) throws Exception{
 
         preparaPersistencia();
 
-        String sql = "SELECT * FROM DEPARTAMENTO WHERE ID= ?";
+        String sql = "INSERT INTO CARGO ?";
         PreparedStatement pstmt = connection.prepareStatement(sql);
         pstmt.setLong(1,id);
 
         ResultSet rs = pstmt.executeQuery(  );
         while(rs.next()){
-            departamento.setId(rs.getLong("ID"));
-            departamento.setNome(rs.getString("NOME"));
+            cargo.setId(rs.getLong("ID"));
+            cargo.setNome(rs.getString("NOME"));
+            cargo.setSalario(rs.getDouble("SALARIO"));
 
         }
 
@@ -33,6 +34,6 @@ public class ConsultaDepartamento extends PersistenciaJdbc {
         pstmt.close();
         stmt.close();
         connection.close();
-        return departamento;
+        return cargo;
     }
 }

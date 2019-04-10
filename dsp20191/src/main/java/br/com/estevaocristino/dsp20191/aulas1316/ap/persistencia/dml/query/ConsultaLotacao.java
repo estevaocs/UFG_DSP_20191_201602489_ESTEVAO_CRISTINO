@@ -1,4 +1,4 @@
-package br.com.estevaocristino.dsp20191.aulas1316.ap.persistencia.dml.insert;
+package br.com.estevaocristino.dsp20191.aulas1316.ap.persistencia.dml.query;
 
 
 import br.com.estevaocristino.dsp20191.aulas1316.ap.model.Lotacao;
